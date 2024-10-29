@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# API keys and sensitive files
+# API keys and sensitive files
+keys/*.json
+.env
+.wwebjs_auth/*
+.wwebjs_cache/*
